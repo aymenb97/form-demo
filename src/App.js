@@ -1,5 +1,3 @@
-import logo from "./logo.svg";
-import "./App.css";
 import DemoForm from "./Form/form";
 function App() {
   return (
